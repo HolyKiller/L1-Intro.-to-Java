@@ -1,3 +1,3 @@
 console.log("Hello, World!");
-let name = "Student";
+let name = "Prince";
 console.log("Welcome, " + name);
